@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://balaurbyte.com">
-    <img src="https://raw.githubusercontent.com/balaurbyte/.github/main/profile/assets/hero.svg" width="100%" alt="BalaurByte. Penetration testing for whatever you build and run. An ASCII three-headed dragon made of hex bytes, its heads locking onto one kind of target after another.">
+    <img src="https://raw.githubusercontent.com/balaurbyte/.github/main/profile/assets/hero.svg?v=3" width="100%" alt="BalaurByte. Penetration testing for whatever you build and run. An ASCII three-headed dragon made of hex bytes, its heads locking onto one kind of target after another.">
   </a>
 </p>
 
@@ -34,7 +34,7 @@ Not on the list? [Tell us what it is](https://balaurbyte.com/contact).
 
 <p align="center">
   <a href="https://balaurbyte.com/methodology">
-    <img src="https://raw.githubusercontent.com/balaurbyte/.github/main/profile/assets/flow.svg" width="100%" alt="Four stages: agree on the scope, test, explain the findings, validate the fixes.">
+    <img src="https://raw.githubusercontent.com/balaurbyte/.github/main/profile/assets/flow.svg?v=3" width="100%" alt="Four stages: agree on the scope, test, explain the findings, validate the fixes.">
   </a>
 </p>
 
