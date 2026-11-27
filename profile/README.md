@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://balaurbyte.com">
-    <img src="https://raw.githubusercontent.com/balaurbyte/.github/main/profile/assets/hero.svg" width="100%" alt="BalaurByte. Penetration testing for web applications, APIs and cloud environments. An ASCII three-headed dragon made of hex bytes, its heads labelled web, API and cloud.">
+    <img src="https://raw.githubusercontent.com/balaurbyte/.github/main/profile/assets/hero.svg" width="100%" alt="BalaurByte. Penetration testing for whatever you build and run. An ASCII three-headed dragon made of hex bytes, its heads locking onto one kind of target after another.">
   </a>
 </p>
 
-**BalaurByte** is an offensive security company based in Romania, working internationally. We test web applications, APIs and cloud environments by hand, validate the impact of what we find, and deliver a report your engineers can act on.
+**BalaurByte** is an offensive security company based in Romania, working internationally. We test whatever you build and run: if you can put it in scope, we test it. We validate the impact of what we find and deliver a report your engineers can act on.
 
-## What we assess
+## Where engagements usually start
 
 | ID | Assessment | ID | Assessment |
 | :-- | :-- | :-- | :-- |
@@ -14,6 +14,21 @@
 | `02` | [API security testing](https://balaurbyte.com/api-security-testing) | `06` | [Mobile app penetration testing](https://balaurbyte.com/mobile-app-penetration-testing) |
 | `03` | [Cloud security testing](https://balaurbyte.com/cloud-security-testing) | `07` | [Red team assessment](https://balaurbyte.com/red-team-assessment) |
 | `04` | [Kubernetes security testing](https://balaurbyte.com/kubernetes-security-testing) | `08` | [Secure code review](https://balaurbyte.com/secure-code-review) |
+
+## What we have tested
+
+That table is a starting point, not a limit. Systems we have tested include:
+
+- Multi-tenant SaaS platforms and their REST, GraphQL and WebSocket APIs
+- iOS and Android apps, down to analysis of the app binary
+- MCP servers, LLM agents and AI assistants
+- Internal and external corporate networks
+- Crypto wallets, gaming and lottery platforms
+- Point-of-sale systems and payment flows
+- Healthcare, identity verification (KYC) and e-invoicing platforms
+- Applications assembled from no-code and third-party services
+
+Not on the list? [Tell us what it is](https://balaurbyte.com/contact).
 
 ## How an engagement runs
 
